@@ -4,3 +4,4 @@
 [submodule "website/plugins/pelican-plugins"]
 	path = website/plugins/pelican-plugins
 	url = git://github.com/getpelican/pelican-plugins.git
+- **7 Mar 2021.** Renamed project to Avatarify Python to distinguish it from other versions of Avatarify
